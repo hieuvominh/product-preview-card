@@ -17,10 +17,10 @@ Frontend Mentor Challenge for Creating a Product preview card component with Res
 ### Screenshot
 
 ## 1 Web View
-![Image Web](images/desktop.PNG)
+![Image Web](images/desktop.png)
 
 ## 2 Mobile View
-![Image Mobile](images/mobile.PNG)
+![Image Mobile](images/mobile.png)
 
 ### Links
 
